@@ -105,5 +105,5 @@ Run The main.py(mew) and computerVision.py In Different Shells
 
 ## Youtube Video Showcasing This
 
- - [Video]((https://www.youtube.com/watch?v=beggWTbwo-s))
+ - [Video](https://www.youtube.com/watch?v=beggWTbwo-s)
  
